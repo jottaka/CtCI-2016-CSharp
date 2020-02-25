@@ -1,0 +1,15 @@
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\1.2.exe
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\text.txt
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\1.2.deps.json
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\1.2.runtimeconfig.json
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\1.2.runtimeconfig.dev.json
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\1.2.dll
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\1.2.pdb
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\CtCIHelper.dll
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\CtCIHelper.pdb
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\obj\Debug\netcoreapp3.1\1.2.csprojAssemblyReference.cache
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\obj\Debug\netcoreapp3.1\1.2.AssemblyInfoInputs.cache
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\obj\Debug\netcoreapp3.1\1.2.AssemblyInfo.cs
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\obj\Debug\netcoreapp3.1\1.2.csproj.CopyComplete
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\obj\Debug\netcoreapp3.1\1.2.dll
+C:\Projects\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\obj\Debug\netcoreapp3.1\1.2.pdb

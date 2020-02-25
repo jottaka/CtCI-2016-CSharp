@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1.1/1.0.0": {
+        "dependencies": {
+          "CtCIHelper": "1.0.0"
+        },
+        "runtime": {
+          "1.1.dll": {}
+        }
+      },
+      "CtCIHelper/1.0.0": {
+        "runtime": {
+          "CtCIHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CtCIHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
