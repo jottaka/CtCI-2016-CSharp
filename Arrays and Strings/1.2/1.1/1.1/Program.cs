@@ -22,7 +22,7 @@ namespace CtDI
         {
             //setup our DI
             var serviceProvider = new ServiceCollection()
-                .AddSingleton<IExercise, Ex1_4>()
+                .AddSingleton<IExercise, Ex1_5>()
                 .BuildServiceProvider();
             var exercise = serviceProvider.GetRequiredService<IExercise>();
 

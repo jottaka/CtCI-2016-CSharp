@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj": {}
+    "C:\\Projetos\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj": {
+    "C:\\Projetos\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj",
+        "projectUniqueName": "C:\\Projetos\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj",
         "projectName": "CtCIHelper",
-        "projectPath": "C:\\Projects\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj",
-        "packagesPath": "C:\\Users\\fjlim\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\obj\\",
+        "projectPath": "C:\\Projetos\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\CtCIHelper.csproj",
+        "packagesPath": "C:\\Users\\fliberal\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\CtCI-2016-CSharp\\Helper\\CtCIHelper\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fjlim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fliberal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

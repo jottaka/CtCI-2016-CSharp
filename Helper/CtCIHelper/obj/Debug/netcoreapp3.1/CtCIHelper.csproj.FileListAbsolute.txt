@@ -6,3 +6,11 @@ C:\Projects\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelpe
 C:\Projects\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.AssemblyInfo.cs
 C:\Projects\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.dll
 C:\Projects\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.pdb
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\bin\Debug\netcoreapp3.1\CtCIHelper.deps.json
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\bin\Debug\netcoreapp3.1\CtCIHelper.dll
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\bin\Debug\netcoreapp3.1\CtCIHelper.pdb
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.csprojAssemblyReference.cache
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.AssemblyInfoInputs.cache
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.AssemblyInfo.cs
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.dll
+C:\Projetos\CtCI-2016-CSharp\Helper\CtCIHelper\obj\Debug\netcoreapp3.1\CtCIHelper.pdb

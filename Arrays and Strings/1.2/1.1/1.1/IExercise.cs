@@ -7,7 +7,7 @@ namespace CtDI
 {
     interface IExercise
     {
-        public void Run();
-        public Task RunAsync();
+        void Run();
+        Task RunAsync();
     }
 }
