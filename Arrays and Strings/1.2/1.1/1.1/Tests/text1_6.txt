@@ -1,7 +1,5 @@
-﻿Tact Coa%true
-ahannh%true
-A grama e amarga%true
-francisco%false
-aaaaa%true
-aabaa%true
-abba%true
+﻿abcdabcdabcd%abcdabcdabcd
+aabcccccaaa%a2b1c5a3
+abcdefghij%abcdefghij
+aabbccddee%a2b2c2d2e2
+aabbccdefg%aabbccdefg
