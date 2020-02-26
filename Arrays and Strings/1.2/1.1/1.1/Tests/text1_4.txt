@@ -1,3 +1,7 @@
 ﻿Tact Coa%true
 ahannh%true
+A grama e amarga%true
 francisco%false
+aaaaa%true
+aabaa%true
+abba%true
