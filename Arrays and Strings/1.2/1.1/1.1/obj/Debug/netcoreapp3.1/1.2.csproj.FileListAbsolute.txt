@@ -38,3 +38,4 @@ C:\Projetos\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp
 C:\Projetos\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\CtCIHelper.dll
 C:\Projetos\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\CtCIHelper.pdb
 C:\Projetos\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\obj\Debug\netcoreapp3.1\1.2.csproj.CopyComplete
+C:\Projetos\CtCI-2016-CSharp\Arrays and Strings\1.2\1.1\1.1\bin\Debug\netcoreapp3.1\Tests\text1_9.txt
